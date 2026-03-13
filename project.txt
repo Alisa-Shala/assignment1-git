@@ -1,2 +1,3 @@
 Git homework assignment 
 Practicing workflow and history managment
+Learning how to clean commit history 
