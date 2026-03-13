@@ -2,3 +2,4 @@ Git homework assignment
 Practicing workflow and history managment
 Learning how to clean commit history 
 Recovering lost work with Git reflog
+Temporary line for recovery practice
